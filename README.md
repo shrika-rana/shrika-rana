@@ -1,4 +1,3 @@
-![snake gif](https://github.com/shrika-rana/shrika-rana/blob/output/github-snake-dark.svg)
 
 
 
@@ -22,12 +21,9 @@
 
 <div align="center">
 
-<img src="https://github.com/shrika-rana/shrika-rana/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+![snake gif](https://github.com/shrika-rana/shrika-rana/blob/output/github-snake-dark.svg)
 
 </div>
-
-<br>
-
 <!-- ======================= GITHUB STATS ======================= -->
 
 <div align="center">
@@ -48,7 +44,7 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 
-# 💫 About Me
+## 💫 About Me
 
 🔭 **Currently working on:** Things I'll probably rename 17 times before shipping.  
 
@@ -66,7 +62,7 @@
 
 <!-- ======================= TECH STACK ======================= -->
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🐍 Languages
 
