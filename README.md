@@ -1,3 +1,7 @@
+![snake gif](https://github.com/shrika-rana/shrika-rana/blob/output/github-snake-dark.svg)
+
+
+
 <!-- ======================= HERO ======================= -->
 
 <div align="center">
