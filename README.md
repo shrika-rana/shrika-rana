@@ -9,7 +9,7 @@
 
 ### AI/ML Student • Developer • Creative Thinker
 
-*Building things, breaking things, and occasionally taking the scenic route.*
+*Curious by default. Building by choice.*
 
 `AI/ML` · `Python` · `JavaScript` · `C`
 
