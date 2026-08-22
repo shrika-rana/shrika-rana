@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 👾 Hey, I'm Shrika Rana
+# ♥︎ Shrika Rana ♥︎
 
 ### AI/ML Student • Developer • Creative Thinker
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-# 📊 GitHub Stats
+# ⭒ GitHub Stats ⭒
 
 <img src="https://github-readme-stats.shion.dev/api?username=shrika-rana&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
 
@@ -44,49 +44,49 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 
-## 💫 About Me
+## About Me ♥︎
 
-🔭 **Currently working on:** Things I'll probably rename 17 times before shipping.  
+✿ **Currently working on:** Things I'll probably rename 17 times before shipping.  
 
-🫱🏻‍🫲🏽 **Looking to collaborate on:** Interesting ideas and questionable deadlines.  
+✿ **Looking to collaborate on:** Interesting ideas and questionable deadlines.  
 
-🤝 **Looking for help with:** Making my code look like I knew what I was doing.  
+✿ **Looking for help with:** Making my code look like I knew what I was doing.  
 
-🌱 **Currently learning:** C, JavaScript, and the consequences of my decisions.  
+✿ **Currently learning:** C, JavaScript, and the consequences of my decisions.  
 
-💬 **Ask me about:** AI/ML, music, or why I chose this variable name.  
+✿ **Ask me about:** AI/ML, music, or why I chose this variable name.  
 
-⚡ **Fun fact:** I'm very good at finding the long way around. Occasionally, it's better.
+✿ **Fun fact:** I'm very good at finding the long way around. Occasionally, it's better.
 
 <br>
 
 <!-- ======================= TECH STACK ======================= -->
 
-## 💻 Tech Stack
+## ★ Tech Stack ★
 
-### 🐍 Languages
+### ✦ Languages ✦
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🤖 AI / ML & Data
+### ✦ AI / ML & Data ✦
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🗄️ Databases
+### ✦ Databases ✦
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Design
+### ✦ Design ✦
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### ✦ Tools & Platforms ✦
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -98,7 +98,7 @@
 
 <!-- ======================= SOCIALS ======================= -->
 
-# 🌐 Connect With Me
+# ★ Connect With Me ★
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrika-rana)
 
